@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @barani961
+- 👋 Hi, I’m barani
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on c and python projects
