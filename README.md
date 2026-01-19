@@ -1,8 +1,6 @@
 - 👋 Hi, I’m barani
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on c and python projects
-- 📫 You can reach me through my mail:baranib812@gmail.com
 - 😄 Pronouns: He
 -  Hobby:chess
 
